@@ -1,11 +1,12 @@
-# Discord v14 Gelişmiş Chat Guard Botu
+# Discord v14 Gelişmiş Welcome Botu
 
 
-- **_Discord Sunucularınızda Kullanabileceğiniz v14 Chat Guard Botu._**
+- **_Discord Sunucularınızda Kullanabileceğiniz v14 Gelişmiş Welcome Botu._**
 
-- **_Bot Sunucuda Mesaj Kanallarında Küfür,Web Link,Discord Link,CapsLock,SA-AS, Güvenlikleri Bulunan Public Sunucusu İçin Geliştirilmiş V14 Chat Guard Botudur._**
+- **_Bot Kayıt Kanallarına Girip Kulaklık Kapatıp Bekler Sunucuya Katılan Üstünde Kayıtsız Rolü Olan Kişiler Sese Girince Hoşgeldin Sesini Söyler Ve Bu Tekrar Eder Yetkili Sese Girince Uyarı Sesini Belirtir Ve Susar Public Sunucular İçin Gelişmiş Bottur._**
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/1111672215541395526?hideDiscrim=true)](https://discord.com/users/1111672215541395526) 
+<img src="https://cdn.discordapp.com/avatars/1111672215541395526/5576a9fb20b9df3b3044b789752e59cd.webp?size=80" width="80" style="border-radius: 50%; margin-right: 10px;">
+
 
   
  # Kurulum & İçerik 
