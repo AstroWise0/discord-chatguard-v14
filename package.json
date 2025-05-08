@@ -1,0 +1,17 @@
+{
+  "name": "chatguardbot",
+  "version": "1.0.0",
+  "description": "v14 Chat Guard Botu",
+  "main": "astro.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "astro",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "better-sqlite3": "^11.8.1",
+    "discord.js": "^14.18.0",
+    "quick.db": "^9.1.7"
+  }
+}
